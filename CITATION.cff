@@ -17,6 +17,7 @@ identifiers:
   - type: url
     value: 'https://github.com/biosmanager/MoPeDT'
 repository-code: 'https://github.com/biosmanager/MoPeDT'
+date-released: 2023-01-02
 abstract: >-
   A modular head-mounted display toolkit to conduct
   peripheral vision research.
