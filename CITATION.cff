@@ -8,8 +8,8 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Albrecht
-    family-names: Matthias
+  - given-names: Matthias
+    family-names: Albrecht
     email: matthias.albrecht@uni-konstanz.de
     affiliation: University of Konstanz
     orcid: 'https://orcid.org/0000-0001-7444-6863'
