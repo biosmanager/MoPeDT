@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MoPeDT
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Albrecht
+    family-names: Matthias
+    email: matthias.albrecht@uni-konstanz.de
+    affiliation: University of Konstanz
+    orcid: 'https://orcid.org/0000-0001-7444-6863'
+identifiers:
+  - type: url
+    value: 'https://github.com/biosmanager/MoPeDT'
+repository-code: 'https://github.com/biosmanager/MoPeDT'
+abstract: >-
+  A modular head-mounted display toolkit to conduct
+  peripheral vision research.
+license: MIT
