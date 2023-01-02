@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main menu.unity
+    guid: 3d014d976cb5e4d4d98a3db3dce4dbf4
+  - enabled: 1
+    path: Assets/Scenes/Locating out-of-view objects.unity
+    guid: 1debe77c81b3c1e48a954b6b178d3468
+  - enabled: 1
+    path: Assets/Scenes/Notifications.unity
+    guid: 255b67484fd9e334f9e9d41d2a2a9ce4
+  - enabled: 1
+    path: Assets/Scenes/Spatial attention shift.unity
+    guid: c803c5b31e2571a449d7c4af68e84c33
+  - enabled: 1
+    path: Assets/Scenes/Balance.unity
+    guid: 2383e07dd877d6d45a3c15db411f72b4
+  - enabled: 1
+    path: Assets/Scenes/Bodily awareness.unity
+    guid: 9fc450d1014e09b4d9a2e6cd32b8fdf2
+  - enabled: 1
+    path: Assets/Scenes/Control variable feedback.unity
+    guid: dbbf06a2e324f9b45acb2de752bc6f7c
+  - enabled: 1
+    path: Assets/Scenes/Spatial attention shift (Arduino).unity
+    guid: a6218ad228a5e8549a04e8005a1229ee
+  - enabled: 1
+    path: Assets/Scenes/Peripheral interaction.unity
+    guid: ae72232aef28ed441bad0899adc6fb78
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: ddc7d371e44594848b2ecc02a13444ec, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4512b5de4eac44c49b41593b2b6c5760, type: 2}
