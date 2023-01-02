@@ -1,3 +1,0 @@
-# MoPeDT - Assembly
-
-TODO
