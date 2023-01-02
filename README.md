@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/581456682.svg)](https://zenodo.org/badge/latestdoi/581456682)
+
 # MoPeDT - **Mo**dular **Pe**ripheral **D**isplay **T**oolkit
 
 We introduce MoPeDT: Modular Peripheral Display Toolkit, a freely available, flexible,
