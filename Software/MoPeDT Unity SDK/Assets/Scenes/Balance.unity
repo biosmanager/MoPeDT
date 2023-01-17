@@ -820,8 +820,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91789b0f6c11f9e40bd2609c06cc4c97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  binding: TrackerRole_Camera
   origin: {fileID: 0}
+  onDeviceIndexChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  binding: TrackerRole_Camera
 --- !u!4 &1061134655
 Transform:
   m_ObjectHideFlags: 0
@@ -846,10 +849,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1061134653}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 466e584595cfda14ca261e77d486a839, type: 3}
+  m_Script: {fileID: 11500000, guid: 70fa4a99c8a46a54989f7117a4d49aed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Source: {fileID: 1548636040}
+  onTransformUpdated:
+    m_PersistentCalls:
+      m_Calls: []
+  posePredictionSeconds: 0
 --- !u!1 &1110709598
 GameObject:
   m_ObjectHideFlags: 0
@@ -1549,6 +1556,7 @@ MonoBehaviour:
   trackingUniverse: 1
   updateMode: 1
   useSteamVrTrackerRoles: 1
+  predictedSecondsToPhotonsFromNow: 0
 --- !u!4 &2086717063
 Transform:
   m_ObjectHideFlags: 0
